@@ -1,0 +1,8 @@
+{
+  "name": "eburon-cli",
+  "version": "1.0.0",
+  "private": true,
+  "description": "eburon-branded opencode TUI — custom ASCII logo, default theme, and terminal title.",
+  "type": "module",
+  "license": "MIT"
+}
